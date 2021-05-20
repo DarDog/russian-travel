@@ -28,7 +28,8 @@
 @import url(../blocks/intro/__span-accent/intro__span-accent.css);
 /*Блок photo-grid*/
 @import url(../blocks/photo-grid/photo-grid.css);
-@import url(../blocks/page/__photo-grid);
+@import url(../blocks/main/__photo-greed/main__photo-greed.css);
+@import url(../blocks/photo-grid/__item/photo-greed__item.css);
 /*Блок places*/
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
