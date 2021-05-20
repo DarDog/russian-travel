@@ -1,3 +1,4 @@
 .page__main {
-  width: 85vw;
+  width: 75%;
+  max-width: 984px;
 }
