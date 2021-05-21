@@ -7,3 +7,9 @@
     max-width: 984px;
   }
 }
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .page__main {
+    max-width: 928px;
+  }
+}

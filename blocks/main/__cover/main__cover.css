@@ -1,9 +1,16 @@
 .main__cover {
   margin-top: 92px;
-  min-width: 1184px;
-  min-height: 740px;
+  width: 1184px;
+  height: 740px;
   position: relative;
   background-image: url("../../../images/__background.jpg");
   background-size: cover;
   background-position: center;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .main__cover {
+    max-width: 1024px;
+    max-height: 640px;
+  }
 }

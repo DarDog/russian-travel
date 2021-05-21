@@ -2,3 +2,9 @@
   margin-top: 92px;
   max-width: 1184px;
 }
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .main__photo-greed {
+    max-width: 928px;
+  }
+}

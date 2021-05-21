@@ -1,3 +1,5 @@
-.photo-greed__item {
-
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .photo-greed__item {
+    width: 300px;
+  }
 }

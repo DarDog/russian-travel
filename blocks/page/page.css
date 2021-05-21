@@ -5,3 +5,9 @@
   align-items: center;
   font-family: 'Inter';
 }
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .page {
+    min-width: 1024px;
+  }
+}
