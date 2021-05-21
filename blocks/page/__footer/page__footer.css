@@ -3,3 +3,10 @@
   width: 90vw;
   min-height: 66px;
 }
+
+@media screen and (max-width: 767px) {
+  .page__footer {
+    margin: 64px 0 24px;
+    width: 320px;
+  }
+}

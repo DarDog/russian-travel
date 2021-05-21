@@ -2,3 +2,9 @@
   width: 90vw;
   min-height: 108px;
 }
+
+@media screen and (max-width: 767px) {
+  .page__header {
+    min-height: 74px;
+  }
+}

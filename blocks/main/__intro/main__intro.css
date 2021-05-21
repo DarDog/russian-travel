@@ -7,3 +7,9 @@
     margin-top: 88px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .main__intro {
+    margin-top: 64px;
+  }
+}
