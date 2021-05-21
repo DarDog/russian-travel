@@ -1,3 +1,9 @@
 .main__places {
   margin-top: 92px;
 }
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .main__places {
+    margin-top: 88px;
+  }
+}
