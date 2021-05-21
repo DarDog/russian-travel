@@ -1,9 +1,16 @@
 .main__lead {
   margin-top: 28px;
+  width: 100%;
+}
+@media screen and (min-width: 1023px) {
+  .main__lead {
+    width: 75vw;
+  }
 }
 
 @media screen and (max-width: 767px)  {
   .main__lead {
     margin-top: 32px;
+    /*width: 100%;*/
   }
 }

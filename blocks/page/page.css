@@ -4,22 +4,11 @@
   flex-direction: column;
   align-items: center;
   font-family: 'Inter';
-}
-
-@media screen and (min-width: 1024px) and (max-width: 1279px) {
-  .page {
-    min-width: 1024px;
-  }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-  .page {
-    min-width: 768px;
-  }
-}
-
-@media screen and (max-width: 767px) {
-  .page {
-    min-width: 320px;
-  }
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  width: 100%;
 }
