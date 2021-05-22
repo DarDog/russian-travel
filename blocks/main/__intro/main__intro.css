@@ -12,13 +12,13 @@
 
 @media screen and (min-width: 665px) and (max-width: 999px){
   .main__intro {
-    width: 720px;
+    width: 94vw;
   }
 }
 
 @media screen and (max-width: 665px) {
   .main__intro {
     margin-top: 64px;
-    width: 288px;
+    width: 90vw;
   }
 }
