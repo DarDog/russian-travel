@@ -1,16 +1,25 @@
 .main__lead {
-  margin-top: 28px;
-  width: 100%;
+  margin-top: 56px;
+  width: 76.875vw;
 }
-@media screen and (min-width: 1023px) {
+
+@media screen and (min-width: 999px) and (max-width: 1100px) {
   .main__lead {
-    width: 75vw;
+    margin-top: 48px;
+    width: 90.63vw;
   }
 }
 
-@media screen and (max-width: 767px)  {
+@media screen and (min-width: 665px) and (max-width: 999px){
   .main__lead {
-    margin-top: 32px;
-    /*width: 100%;*/
+    margin-top: 48px;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 665px)  {
+  .main__lead {
+    margin-top: 48px;
+    width: 100%;
   }
 }

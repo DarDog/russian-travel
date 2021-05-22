@@ -8,6 +8,10 @@
   opacity: .3;
   z-index: 1;
   transition: opacity .3s;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .cover__overlay:hover {

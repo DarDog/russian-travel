@@ -1,6 +1,11 @@
 .intro__list {
   list-style: none;
-  max-width: 690px;
   margin: 0;
   padding: 0;
+}
+
+@media screen and (min-width: 999px) {
+  .intro__list {
+    max-width: 690px;
+  }
 }
