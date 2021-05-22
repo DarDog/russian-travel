@@ -1,6 +1,6 @@
 .place {
   display: grid;
-  grid-template-columns: 35vw 36vw;
+  grid-template-columns: minmax(440px, 460px) minmax(456px, 484px);
   grid-template-rows: repeat(2, auto);
   grid-template-areas:
   "title website"

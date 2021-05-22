@@ -1,6 +1,7 @@
 /*Общие стили*/
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts.css);
+@import url(../blocks/body/body.css);
 @import url(../blocks/page/page.css);
 /*Блок Header*/
 @import url(../blocks/header/header.css);
@@ -8,7 +9,6 @@
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/__image/logo__image.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 @import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 /*Блок lead*/
 @import url(../blocks/main/main.css);

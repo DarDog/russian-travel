@@ -1,6 +1,6 @@
 .main__lead {
   margin-top: 56px;
-  width: 76.875vw;
+  width: 100%;
 }
 
 @media screen and (min-width: 999px) and (max-width: 1100px) {

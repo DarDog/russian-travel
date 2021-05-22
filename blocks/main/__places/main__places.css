@@ -1,6 +1,6 @@
 .main__places {
   margin-top: 92px;
-  width: 76.88vw;
+  width: 100%;
 }
 
 @media screen and (min-width: 999px) and (max-width: 1100px) {
