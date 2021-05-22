@@ -5,6 +5,11 @@
   line-height: 1.17;
   margin: 0;
   padding: 0;
+  transition: opacity .3s;
+}
+
+.header__lang-link:hover {
+  opacity: .87;
 }
 
 .header__lang-link:last-of-type {
